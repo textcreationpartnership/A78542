@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Legislative povver in problemes [sic], published for the information of all those who have continually adhered to the good cause: and for the reformation of those who had embraced the bad cause. By Peter Chamberlin Docter in Physick.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78542</idno>
+            <idno type="STC">Wing C1896</idno>
+            <idno type="STC">Thomason E1079_1</idno>
+            <idno type="STC">ESTC R207818</idno>
+            <idno type="EEBO-CITATION">99866846</idno>
+            <idno type="PROQUEST">99866846</idno>
+            <idno type="VID">119134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119134)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1079[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Legislative povver in problemes [sic], published for the information of all those who have continually adhered to the good cause: and for the reformation of those who had embraced the bad cause. By Peter Chamberlin Docter in Physick.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>[1], 6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Misnumberings: p. 4 missing in number only, text continuous; p. 8 misnumbered p. 6.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 3d", Octob: 13"; "Octob: 13" crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Law --  Great Britain --  History --  Early works to 1800.</term>
+               <term>Church and state --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119134:1" rendition="simple:additions"/>
+            <p>Legiſlative Povver IN PROBLEMES, Publiſhed for the INFORMATION of all thoſe who have conſtantly adhered to the GOOD CAUSE: AND For the Reformation of all thoſe who had embraced the BAD CAVSE.</p>
+            <p>BY PETER CHAMBERLIN Docter in Phyſick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Clowes</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:119134:2"/>
+            <pb n="2" facs="tcp:119134:2"/>
+            <head>PROBLEMES.</head>
+            <p n="1">1. WHether God or Man, Jeſus Chriſt or a Parliament have the Supreme Authority of <hi>England?</hi>
+            </p>
+            <p n="2">2. Whether it be lawful to ſay that Jeſus Chriſt is the One Law-gi<g ref="char:EOLhyphen"/>ver? <hi>Ja.</hi> 4.12. <hi>Iſ.</hi> 33.22. Or, whether that Epiſtle and Prophecy are <hi>Apochrypha</hi> in <hi>England?</hi>
+            </p>
+            <p n="3">3. Whether it be not Treaſon to ſay Parliaments are not Law-givers, or have not the Legiſlative Power?</p>
+            <p n="4">4. Whether if Jeſus Chriſt and the Parliament are both Law-givers, there be not more Law-givers then ONE?</p>
+            <p n="5">5. Whether Parliaments have known what to do with this Law-giving or Legiſ<g ref="char:EOLhyphen"/>lative Power? And whether it hath not been a Burdenſome-ſtone to Kings,
+<note place="margin">
+                  <hi>Zech.</hi> 12.3.</note> Par<g ref="char:EOLhyphen"/>liaments, Armies, Protectors, Councils and People? and hath not been roſs'd up-and down from the One to the Other, like the Atk of God ſtolen from <hi>Eben-Ezer</hi> and ſet up by <hi>Dagon,</hi> and ſo carried from <hi>Aſhdod</hi> to <hi>Gath</hi> and <hi>Ekron,</hi> till it retur<g ref="char:EOLhyphen"/>ned to <hi>Iſrael</hi> again?</p>
+            <p n="6">6. Whether it was not greater Policy and Wiſdom in <hi>Lycurgus, Numa Pompi<g ref="char:EOLhyphen"/>lius,</hi> and <hi>Mahomet</hi> to entitle their Lawes to the Oracle of <hi>Apollo,</hi> the Nymph <hi>Egeria,</hi> and the <hi>Holy Dove?</hi> And whether the people became not more conſci<g ref="char:EOLhyphen"/>enciouſly obedient thereto, then when Parliaments entitle Laws and Legiſlative Powers to themſelves; yet acknowledge it Derivative, which neceſſarily renders them obnoxious and accountable to them from whom they derive it?</p>
+            <p n="7">7. Whether it were not better for Parliaments to accept of the Legiſlative Pow<g ref="char:EOLhyphen"/>er of Jeſus Chriſt, and of the Law, Statutes, and Judgments ready offered them from God. with the whole Platform of Government prepared by the Word of God, and practicable within one Moneth, and eaſy to be eſtabliſhed:
+<note place="margin">
+                  <hi>Ezek,</hi> 22: 27.</note> then ſtill to be overturn'd, overturn'd overturn'd, and trouble and hazard themſelves and the Nation, to find out another Legiſlative Power and other Laws, whichlaſt no longer then the Men that make them: nor that but during the Power of the Sword?</p>
+            <p n="8">8. How much blood and Treaſure had been ſaved, had the Parliament been plea<g ref="char:EOLhyphen"/>ſed to acknowledge the Legiſlative Power of the Lord Jeſus Chriſt,
+<note place="margin">
+                  <hi>Ja.</hi> 4.12. <hi>Iſ.</hi> 33: 22. 1 <hi>Tim.</hi> 6.15. <hi>Deut.</hi> 1.17. &amp; 17.18.19. 2 <hi>Chr.</hi> 19 6.</note> the only Po<g ref="char:EOLhyphen"/>tentate, <hi>the King of Kings and Lord of Lords:</hi> and the Law Statutes &amp; Judgments of Almighty God?</p>
+            <p n="9">9. Whether it were not far more honourable for Parliaments to have their Au<g ref="char:EOLhyphen"/>thority from God, in judging for God by the Laws of God: then derived from Kings (as ſome would have it) or (as others ſay) from the People, who them<g ref="char:EOLhyphen"/>ſelves never had it; but conceit it their Due, becauſe acknowledged by Parlia<g ref="char:EOLhyphen"/>ment: and ſo con ceive that Parliament men coſen them of their due?</p>
+            <p n="10">10. But if it muſt be acknowledged that Jeſus Chriſt and the Parliament have each a Legiſlative Power, Whether do they both give <hi>One and the ſame Law?</hi>
+            </p>
+            <p n="11">11. If <hi>One and the ſame,</hi> Whether the Prerogative of Jeſus Chriſt or of a Parli<g ref="char:EOLhyphen"/>ament ought to take place in calling the Law by their Title whoſe Prerogative it is?
+<note place="margin">
+                  <hi>Act.</hi> 4.19 5.29.</note>
+            </p>
+            <p n="12">12. If it be different, Whether it is more lawfull to obey God or Man, unleſſe Jeſus Chriſt be not God; or His Law not Gods Law?</p>
+            <p n="13">13. As it is more honourable for Parliaments and more ſure to have their Autho<g ref="char:EOLhyphen"/>rity from God than man: So whether it be not more honourable and ſafe for the People to be governed by the Law of God then Man? And whether it doth not more bind andaſatisfie the Conſcience, as being the very Anſwer of every Mans Prayer (though ſome know not what they ſay) that Gods Kingdom might come, and His Will might be done in Earth as it is in Heaven:
+<note place="margin">
+                  <hi>Matt.</hi> 6.10.</note> rather then be en<g ref="char:EOLhyphen"/>ſlaved
+<pb n="3" facs="tcp:119134:3"/>one ſort of Men to another: and often times the beſt and moſt peaceable, to the moſt unjuſt and Tyrannical? whereof the moſt formidable hath been a ſingle perſon, though He that makes all men afraid muſt needs be afraid of all men?</p>
+            <p n="14">14. Whether it be not eaſier and better to be governed by a Law which every Child knowes, then by Laws which all the wiſe Lawyers, Serjeants and Judges of the Land know not?</p>
+            <p n="15">15. Whether the Scriptures of the Old and New Teſtament thwart each other? Or, whether they both agree to be the Faithful and Authentick Records of the Law of God?</p>
+            <p n="16">16. If not, Why are they ſuffered to diſturb the Conſcience of Honeſt Men againſt any Government that is not according to that Law?</p>
+            <p n="17">17. If any part of thoſe Scriptures ate falſe, Why do not our Teachers Teach and Rulers command thoſe places to be left out? And why the Aſſemblies of Di<g ref="char:EOLhyphen"/>vines both of <hi>England</hi> and <hi>Scotland</hi> do own them, and yet publiſh in Print ſuch no<g ref="char:EOLhyphen"/>torious and manifeſt contradictions againſt them, in ſome particulars of their <hi>Con<g ref="char:EOLhyphen"/>feſſion of Faith</hi> and <hi>Catechiſms?</hi> And whether the <hi>Pope,</hi> who hath left out and changed ſome places of Scripture which made againſt him, (though he aſſume to him<g ref="char:EOLhyphen"/>ſelf an Authority above them) hath not dealt more honeſtly with his People here<g ref="char:EOLhyphen"/>in then ſome of our Teachers and Rulers have hitherto done with us?
+<note place="margin">2 <hi>Tim.</hi> 3.16, 17. <hi>Rom.</hi> 15.4. <hi>Exo.</hi> 20.1.31.18.34.1.4. <hi>Deut.</hi> 5.22.9, 10. 10.2.4. <hi>Lu.</hi> 19.14. <hi>Mal.</hi> 3.6. <hi>Heb</hi> 1.12, 13.8.</note>
+            </p>
+            <p n="18">18. But if all the Scriptures are compleat, as given by Inſpiration of God: Whe<g ref="char:EOLhyphen"/>ther is that Text to be believed, which ſaith the Law is Holy, Juſt and Good, <hi>Rom.</hi> 7.12. And why do not men ſo own and obey them? Or can we ſay the ſame of the Acts, Lawes, and Statutes of the Land?</p>
+            <p n="19">19. Whether the ten Commandements ſpoken by God, and twice Written with the finger of God: Ordinarily taught to Children, and written on moſt Church Walls and Windows; and acknowledged ſo in all Confeſſions and Catechiſmes, are not the Law of God?</p>
+            <p n="20">20. Whether God be bound to make any other Law for Mankind any more then He is bound to give an other Meſſias to the Jews, becauſe they will not have this Man to reign over them?</p>
+            <p n="21">21. Whether Time or Place, Nation or Sex alter that Law? or whether God be altered that made it? ſo that, What was Idolatry, Blaſphemy, Murther, Adultery, Theft or Falſ Witneſs ſo long agoe in <hi>Palestine</hi> among the Jewes; is it not ſo now in <hi>England</hi> among the Gentiles?</p>
+            <p n="22">22. Whether King <hi>David</hi> knew what he ſaid, when he affirmed the Law of the Lord is Perfect, His Statutes Right, and his Judgements True and Righteous al<g ref="char:EOLhyphen"/>together? <hi>Pſal.</hi> 19.7, 8, 9. And whether <hi>Moſes</hi> and <hi>Solomon</hi> knew what they ſaid when they Commanded Men neither to <hi>Add</hi> nor <hi>Diminiſh? Deut.</hi> 4.2. &amp; 12.32. <hi>Pro.</hi> 30.6. And whether God Himſelf (may it be ſpoken with reverence to ſhame this wicked World) knew what He did when He Commanded <hi>Joſhua,</hi> as <hi>Moſes</hi> alſo Commanded <hi>Iſrael</hi> from the Lord, that they ſhould turn neither to the Right Hand, nor to the Left? <hi>Joſ.</hi> 1.7. <hi>Deut.</hi> 5.32. &amp; 17.20. &amp; 28.14. Or indeed, whether Lawyers or Judges or any humane Authority know what they ſay, or what they do, when they ſay the Law of the Lord is imperfect, and that they <hi>must</hi> and <hi>do Add</hi> and <hi>Diminiſh:</hi> and that they Will and Do turn both to the Right Hand, and to the Left: and will Make and Compell others ſo to do alſo?</p>
+            <p n="23">23. Whether the Statutes and Judgments Recorded in the Old and New Teſta<g ref="char:EOLhyphen"/>ment: or the Statutes and Judgments Recorded in Parliament, &amp; Courts of Record do moſt properly belong to the Law &amp; ten Commandements of God: Or whether the great God was Wiſe enough to appoint Statutes and Judgments for His own Law?</p>
+            <p n="24">24. Whether <hi>Moſes</hi> meant Gods Statutes and Judgments to be fit for all Nati<g ref="char:EOLhyphen"/>ons, when he challenged all Nations to Compare with them? <hi>Deut.</hi> 4.8.</p>
+            <p n="25">25. Whether the Apoſtle <hi>Paul</hi> meant the Law of God, when he pleaded the things contained in the Law to be by Nature written in the Heart? and whether <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e meant the Statutes and Judgments of <hi>God,</hi> when he brought the Conſcience
+<pb n="5" facs="tcp:119134:3"/>bearing Witneſs, and Mens Judgment or Reaſoning Thoughts (as Judges) Accuſing or Excuſing? <hi>Rom.</hi> 2.14, 15.</p>
+            <p n="26">26. Whether our Maxime in the Law of the Land, mean the Law of God as it is in the Old and New Teſtament, with the Statutes and Judgments thereto belong<g ref="char:EOLhyphen"/>ing? Or whether there be any other Law of God, that is or can be meant, when it ſaith that <hi>Whatſoever is contrary to the Law of God, is Void,</hi> ipſo facto?</p>
+            <p n="27">27. Whether <hi>(ipſo facto)</hi> All other Lawes but the Law of <hi>God</hi> are not voyd ſince it is the Statute of <hi>God,</hi> that none ſhould Add nor Diminiſh, <hi>Exod.</hi> 4.2. &amp; 12.32. <hi>Pro.</hi> 30.6. <hi>Rev.</hi> 22.18, 19. Nor turne to the Right Hand, nor to the Left? <hi>Joſ.</hi> 1.7. <hi>Deut.</hi> 5, 32.17.20.28.14.</p>
+            <p n="28">28. Whether God<hi>'s</hi> Law be not the Fundamentall Law of all the World?</p>
+            <p n="29">29, Whether God's Law be not the Fundamentall Law of <hi>England?</hi>
+            </p>
+            <p n="30">30. If it be true which ſome of our Judges and Lawyers have ſaid, that Reaſon is the Fundamental Law of the Land: whether the Law of God be not that Law of Reaſon, unleſs Parliaments, Judges, or Lawyers can ſhew a Law more Reaſonable?</p>
+            <p n="31">31. If it be true what Judge <hi>Jenkins</hi> in Print, and others have ſaid that Precedent is the Fundamental Law of the Land: Whether any can ſhew more Authentick Precedents then the Law of God throughout the Scriptures?</p>
+            <p n="32">32. If Antiquity (as ſome) plead to be the Fundamental Law of the Land: Whether any Hictory in the whole World can ſhew any Law more Auncient, or, by many hundred of yeares, ſo Auncient as the Law of God?</p>
+            <p n="33">33. Whether our own Hiſtory and Chronicles do not in particular relate that King <hi>Lucius,</hi> and King <hi>Alfred</hi> did ſet up the Law of God to be the Law of this Land? And if ſo, Whether have we any Law of the Land more Auncient then their Reign?</p>
+            <p n="34">34. Since then the Law of God is the Law of Nature, the Law of Nations, the Law of Reaſon, the Law of Precedent, the Law of Antiquity,
+<note place="margin">
+                  <hi>Rom.</hi> 2.14.15. <hi>Deut.</hi> 4.8.</note> and by all theſe the Fundamental Law of the whole World, and by our own Maxime the Fundamentall Law of England: And that whoſoever Oppoſeth, Contriveth, Acteth, or Abbetteth in any thing againſt the Fundamental Law of England, is guilty of the higheſt Trea<g ref="char:EOLhyphen"/>ſon, and by all meanes Ordinary or Extraordinary to be Cutt off: Why will ſome go on to Act, Execute, and Contrive Lawes, Statutes and Judgments contrary to the Law of God; againſt their own Heads, and moſt certainly againſt their own Souls? For if God ſpared not a King, a Vice Roy, an Arch Biſhop, and divers Nobles for ſinning againſt no Ordinary Law of the Land: how ſhall meaner perſons eſcape if they ſin againſt All?</p>
+            <p n="35">35. Nevertheleſs whether all the Lawes and Execution of Lawes of this Land are not Different or Contrary to the Law of God; Let every man ſpeak what he hears and ſees and feels?</p>
+            <p>Oh the Divine Law of God? Oh the Deviliſh Lawes of Men?</p>
+            <p>What Good is not in the Law of God? what Evil is not in the Laws of Men?</p>
+            <p n="36">36. Whether is not the ſumm of Gods Lawes, <hi>Love,</hi> &amp; the Execution <hi>Do as you would be done by?</hi> doth it not end all ſutes in a day, &amp; payes all Debts without Arreſts or Impriſonments, and might be practicable throughout the Land in one moneth?</p>
+            <p n="37">37. Was there ever ſutes for Title of Land heard of in all the worſt of Kings of <hi>Iſ<g ref="char:EOLhyphen"/>rael?</hi> And where is ever a Sute in Chancery among the vileſt Barbarians? Might not Juſtice be Ordered throughout the Land by the Law of God in a moneth, and is our Juſtice in order to this day? And where was ever any Family free from Sutes in England?</p>
+            <p n="38">38. Are not the Lawes of men Innumerable, cauſing Strife, and Contention, Theft and Murder? O Bleſſed Holland, the worſt of all Lands, yet made an Artifi<g ref="char:EOLhyphen"/>cial Paradize by induſtrie and Government? Oh Happy England the Garden of the World, but moſt accurſed in Government beyond all other Lands, untill amended by God and our Governours?</p>
+            <p n="39">39. What do Priviledges ſignifie, ſaving thou ſhalt not Steal, but I may; with
+<pb n="6" facs="tcp:119134:4"/>two ſupportors. 1. <hi>Valet factum quod non valet fieri,</hi> Things done are lawfull, which are not lawfull to be done; the 2 an Act of Indemnity or Oblivion ſignifying Steal no more till next time?</p>
+            <p n="40">40. What doth Poſſeſſion ſignifie to be a 11 Points of the Law, but catch that catch may, that none ſhould play the Thief but hold faſt, ſo that a <hi>Poſſe Comitatue</hi> can hardly reſtore it to the right owner? <hi>Oh the Vile Law of Men?</hi>
+            </p>
+            <p n="41">41. Whether Soldiers have not ſeveral times with their Officers, Vowed and attempted to Free the Nation, and hang up the Lawyers Gownes by the Scottiſh Colours, which boſting was anſwered by the Author, that when Lawyers were Ca<g ref="char:EOLhyphen"/>joled out of Weſtminſter-Hall by Soldiers with their Tongues, then Soldiers ſhould be Cudgeled out of the field with their own Scabbords?</p>
+            <p n="42">42. Whether the firſt noiſe of Reformation made not the Inns of Court as emp<g ref="char:EOLhyphen"/>ty of Lawyers, as now the Temple Trees are empty of Rooks, in token that Law<g ref="char:EOLhyphen"/>yers and Reformation are inconſiſtent?</p>
+            <p n="43">43. Whether every Familie in <hi>England,</hi> doth not curſe both Lawes and Lawyers of <hi>England,</hi> and that (for the moſt part) not without cauſe? Yet whether ſome bi<g ref="char:EOLhyphen"/>gotteed Lawyers do not think as the Rulers in <hi>John</hi> 7.49. That <hi>Moſes</hi> Chriſt and <hi>Paul</hi> with their Followers were accurſed that knew not the Lawes of <hi>Englands?</hi>
+            </p>
+            <p n="44">44. What Lawes are practiſed in <hi>England,</hi> that are not the Remaines and Re<g ref="char:EOLhyphen"/>liques of Antichriſtian Superſtition and Tyranny, according to the Ignorance of our Fore-Fathers? And whether they are not contrived to maintain Tyranny, enrich Lawyers, and empoveriſh the People?</p>
+            <p n="45">45. Whether moſt of the great Lordſhips in England are not gotten into the poſſeſſion of the Families of Lawyers ſince Queen <hi>Elizabeth</hi> dayes, that Serjeants went a begging for Clients in <hi>Pauls,</hi> and to be entertained for ten ſhillings?</p>
+            <p n="46">46. Whether any can have Juſtice, or go to Law without money? and whether the Proverb be not true; the Law is Coſtly?</p>
+            <p n="47">47. Whether he that muſt deliver his Purſs upon the High way, or he that muſt deliver the beſt part of his Eſtate in a private Study have the better choice?</p>
+            <p n="48">48. Whether Lawyers do it upon a Goſpel account when they teach men by Ex<g ref="char:EOLhyphen"/>perience to give the Coat alſo rather then go to Law:
+<note place="margin">
+                  <hi>Mat.</hi> 5.40.</note> proving that half a Loaf is better then no Bread?</p>
+            <p n="49">49. Whether two or three Millions are not ſpent in Law, and whether it be not better deſerved of the Army and Navy, ſince the one enſlaves us to the Norman Tyranny, and the other hath given us ſome Breathings of God?</p>
+            <p n="50">50. Whether the Hercules Pillars of the Law be not the Chancery, and of the Chancery an Arbitrament, if not life! and when people will be wiſe to ſee this?</p>
+            <p n="51">51. Who ever got by Sutes in Law beſides Lawyers and wicked men: for if Juſtice were done, what had the honeſt man but his own, made now more precious to him by his Vexatious trouble and charges? And if Injuſtice were done the Knave and the Lawyer ſhared ſtakes? And whether our Lawes be not contrived to fill the Lawyers Coffers, and ſatisfie Revengefull Mindes, and Tyrannicall Purſes; And when it will be otherwiſe, ſince they are alwayes uppermoſt to ſhare in making as well as executing their own Lawes?</p>
+            <p n="52">52. Whether Lawyers pretend beſt for the Lawes, vvhen they ſay their Law is good, but blame the Corruption? Or when they ſay their Law is good, but blame the Execution (their Courts and Judges)? As if a Lavv could be both Good and Corrupt: Or a good Law could have bad Execution, for if men Execute the good Law, they Execute what is good: If otherwiſe, they Execute an Evil. But being beaten out of all theſe lurking holes, at laſt they indeavour to Anchor in the Law of God, and ſay it is ACCORDING. Do not they then inferr that the Law of God is moſt perfect, vvhen they hope for juſtification of theirs, by being but ACCOR<g ref="char:EOLhyphen"/>DING?</p>
+            <p n="53">53. What Benefit have vve by the Law of the Land?</p>
+            <pb n="7" facs="tcp:119134:4"/>
+            <p n="54">54. Is any mans Perſon ſafe vvhen his life lies at the mercy of any one Perjurd or Malicious Vilain that vvill ſvvear him out of it at the Seſſions? o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is that Lavv to be valued by Engliſhmen, that value an Engliſhman but at 13 pence-half-penny? Is that Lavv to be Adored vvhich like <hi>Eſops</hi> Stock devour the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roglike Adorers that are fond of it, ſo that if an Attorney Gen. vvere let loſe to plead their ovvn Lavves, no Head could be ſafe on any mans Shoulders in Army or Parliament? and this can be by every Puny demonſtrated.</p>
+            <p n="55">55. Is any mans Eſtate ſecure, when his utmoſt ſatisfaction being cheated of it, is but to have the Tip of the Cheaters Ear, if he can get it? And if he be robbed of it, he may for the beſtowing of more time and money, ſee the thief ſwing in a halter, and all what he hath forfeit to the State? Or if he pleaſe be hanged himſelf for receiving his own ſtolen Goods, if he be not wary in the doing of it?</p>
+            <p n="56">56. Is any mans good name ſafe when it is lawful to accuſe him of all villany in Chance<g ref="char:EOLhyphen"/>ry Bills or at Seſſions?</p>
+            <p n="57">57. Is any man ſure of Liberty, (though it be the <hi>Pedro Inganno's</hi> Box ſo often held up with the Title of <hi>Salus Populi,</hi> and ſo dearely paid for with Blood and Treaſure:) Whereas it lies at the Mercy of Arreſts and Impriſonments by every malicious Knave that will be at the charge of a <hi>Luo Minus,</hi> a <hi>Latitat,</hi> a <hi>Capias,</hi> a VVrit of the Counter, or a Bill of <hi>Middleſex?</hi>
+            </p>
+            <p n="58">58. VVhether all theſe Glorious Lawes and Priviledges are worth two Millions a year to the people? And whether the Army and Navy do not better deſerve it?</p>
+            <p n="59">59. Whether the People can be ſaid at all to have their Liberty, when two or thee Law<g ref="char:EOLhyphen"/>yers keep it? Or whether Trade can proſper ſo long as Exciſe, Aſſeſſements, and Taxes con<g ref="char:EOLhyphen"/>tinue?</p>
+            <p n="60">60. Whether Exciſe and Taxes are occaſioned by the Army ſince Offers have been made to maintaine the Army without them?</p>
+            <p n="61">61. Whether ſome do not find it ſweeter to continue Taxes, then to hearken to Dr. <hi>Chamberlin</hi> for the taking them off? And whether they be not ſure that the people will be content to be alwayes Taxed, though the taking off Taxes and Exciſe might very much quicken Trade?</p>
+            <p n="62">62. Whether there be not a great Gulf between the Army and People, ſince it could ſwallow up ſome yeares two Millions of Taxes between the Payer and Receiver?</p>
+            <p n="63">63. Whether the Bottomleſs-Pit be not ſome-where neere <hi>England,</hi> when almoſt all <hi>Ireland</hi> and <hi>Scotland,</hi> and moſt of the Kings, Biſhops, Deans, and Chap. and Delinquents Lands, Eſtates, and Houſes: beſides about 60 Millions of the Peoples Treaſure are gone: Yet the Parliament never the better for it?</p>
+            <p n="64">64. VVhether <hi>Quintus Curtius</hi> ever attempted a greater work in cloſing up the Gulf at <hi>Rome:</hi> then the Author who offers to cloſe up this Gulf which ſeemes to grow wider and wider? And who knowes what will become of us if the Parliament leave us in May next, and leave this Gulf open, when there are no more <hi>Irelands,</hi> nor <hi>Scotlands,</hi> nor ſuch great Eſtates, nor ſo many Jewells and Millions in <hi>England</hi> leſt to be thrown in?</p>
+            <p n="65">65. VVhether the Army have not been the Parliament and Peoples beſt friend in time of need?</p>
+            <p n="66">66. VVhether the Soldier vvho fought againſt the King, or all the Lavvyers vvho vvere and are for the King, and fled to him in the VVarrs, leaving their deſolate places to VVo<g ref="char:EOLhyphen"/>men; be the beſt Common-vvealths Men?</p>
+            <p n="67">67. Whether the Army be not the Repreſentative of the Power, as the Parliament of the Authority of the People?</p>
+            <p n="68">68. Whether it be not fit for Power and Authority to Unite together?</p>
+            <p n="69">69. Whether <hi>Oliver</hi> left not the experience of which is ſtrongeſt if they divide?</p>
+            <p n="70">70. Whether when we are divided <hi>France</hi> may not Alarm <hi>England</hi> whilſt <hi>Spain</hi> takes <hi>Ireland?</hi> Then whoſe friendſhip can we invite but the Plump <hi>Hollanders,</hi> if not too late?</p>
+            <p n="71">71. Whether our Laws and Lawyers will not more and more divide them, and help on the work of the Jeſuits: for where can he find better ſhelter, then under a Barr Gown?</p>
+            <p n="72">72. Whether a Kingdom divided can ſtand?
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 26.</note>
+            </p>
+            <p n="73">73. Whether it be poſſible to unite them, but by the Legiſlative Power of Jeſus Chriſt, and the Law of God?</p>
+            <pb n="6" facs="tcp:119134:5"/>
+            <p n="74">74.
+<note place="margin">
+                  <hi>Ezek.</hi> 21.27. <hi>Pſ.</hi> 2.6. <hi>Jo.</hi> 5.44.</note> Whether God be not bound by His word to overturn, overturn, overturn, Kings Parliaments, Armies, Protectors people, till Jeſus Chriſt be ſet up upon his Holy Hill?</p>
+            <p n="75">75. Whether Men can believe this that receive honour one from another, and not that honour that cometh from God only? <hi>Jo.</hi> 5.44.</p>
+            <p n="76">76.
+<note place="margin">
+                  <hi>Exod.</hi> 18.21. <hi>Act.</hi> 19.25. <hi>Ast.</hi> 5.39. <hi>Matt.</hi> 7.12. <hi>Pſ.</hi> 50.22 <hi>Luke</hi> 19.</note> Whether ever men that receive 1000 <hi>li.</hi> 5000 <hi>li.</hi> 10000 <hi>li. per annum</hi> by theſe Laws, will conſent to a Law that gives up their place and Office to Men of Truth, Fearing God and hating covetouſneſs? And whether it will not be worſe then the ſelf denying Or<g ref="char:EOLhyphen"/>dinance? and whether they will not know that by this Craft they have their wealth, and cry up great <hi>Diana</hi> of the <hi>Epheſians?</hi> Oh the admirable Law of God! Oh the prodigious Law of Man! When will men leave fighting againſt God?</p>
+            <p>Oh the Divine Law of God, which teacheth all men to do as they would be doneby! Oh the deviliſh Law of men, where we can have no peace or ſafety in Body, Goods, or Mind! Leave off for ſhame ye Prodigies of men that reſiſt the Holy Ghoſt and fight againſt God: <hi>Lest he tear you to pieces and there be none to deliver:</hi> leſt he ſay, <hi>Bring thoſe mine enemie; before me that would not have me to Reign over them, and ſlay them before my Face.</hi> Leſt the fury of the People and Army, and tumultuous rage of the poor be made Vials to power out the vengeance of God upon you. Have we not Clouds gathering beyond the Seas? Have we not gripings in our Bowels at home? Is any Man in <hi>England</hi> this day ſatisfied? Have we not Jeſuits ſpawning over all the Land? Is not Trade decayed and Money fled away in<g ref="char:EOLhyphen"/>to all parts beyond the Seas?</p>
+            <p n="77">77. And what King, Judge, or Common-wealth did ever come near the keeping of Gods Law, whom God rewarded not with Safety and Honour, long Life, Peace and Proſperity?</p>
+            <p n="78">78. And what Law did or could ever cauſe a people to dwell in peace and ſafety, every man under his Vine, and every man under his Figg-tree, eating and drinking and making merry; And Silver to be as Stones in <hi>Jeruſalem,</hi> ſave the Law of God only (1 <hi>King.</hi> 4.20.25. &amp; 10.27.) And when Men remember that Law (<hi>Mal.</hi> 4.4.) as remembred it ſhall be when the little Stone becomes a great Mountain (<hi>Dan.</hi> 2.34, 35.) when his King<g ref="char:EOLhyphen"/>dom ſhall come, and his will ſhall be done in Earth as it is in Heaven. (<hi>Matt.</hi> 6.10.) then it ſhall be ſo again? <hi>Mica</hi> 4.3, 4.</p>
+            <p>Oh how bleſſed and happy a thing it were that God would grant Wiſdom to this preſent Authority,
+<note place="margin">
+                  <hi>Ja.</hi> 1.5. <hi>Pſ.</hi> 2.10. <hi>Deut.</hi> 1.17. 2 <hi>Chro.</hi> 19.6. <hi>Deut.</hi> 15.32. &amp; 17 20. &amp; 28.14. <hi>Jo.</hi> 1.7. <hi>Amos</hi> 5.24. <hi>Dan.</hi> 2.24, 25. <hi>Rev.</hi> 5.10 <hi>Matt.</hi> 6.10, <hi>Rev.</hi> 9.1.11. <hi>Rev.</hi> 13.1.11. <hi>Iſ.</hi> 1.26. <hi>Pſa.</hi> 144.14.</note> and power to kiſſe His Son: and be no more the Repreſentatives of Man; but the Repreſentatives of God, to Judge for God, by the Laws of God without reſpect of per<g ref="char:EOLhyphen"/>ſons, turning neither to the right Hand nor to the left, and be Crowned with the glorious Title of LIBERATORES ANGLIAE, and not CUSTODES LIBER<g ref="char:EOLhyphen"/>TATIS. Then ſhould Righteouſneſs run down as a mighty ſtream. And they be Judges as at firſt, and Councellours as at the Beginning. Then ſhall the little Stone fill the whole EARTH, The Saints ſhall Reign on EARTH. Gods will ſhallbe done on EARTH. No more ſhall <hi>Apolluon, Abaddon</hi> Scorpionize Men. No more ſhall Beaſts ariſe out of the Sea or Earth to Stygmatize men. Then ſhall the Oppreſſor ceaſe, and no more complaining be heard in the ſtreets. Taxes ſhould be no more, And Trade and induſtry ſhould abound more than in our Neighbours bleſſed Bee-hive. The poor ſhould have bread, and the Army no more in Arrears, Priſon doors ſhould be open, and Debtors ſatisfied without Arreſts. The youth and flower of our Nation inſtead of being infected with the crab<g ref="char:EOLhyphen"/>ed nonſenſical ſtudy of the Laws, or drawing ſtreight lines by crooked Rules, raiſe up their noble Fancy to the wiſdom of Arts &amp; Arms, The Depths of Nature and knowledge of the whole world, to the Honour of God and themſelves, and not imbeſling but enriching of their Eſtates and Poſterity; Then Peace and ſafety, plenty and proſperity ſhould over<g ref="char:EOLhyphen"/>flow the Land.</p>
+            <p>For I <hi>P.C.</hi> as a Servant &amp; Witneſs of the word of God, do Teſtifie with my right hand lift up to Heaven, that if our preſent Parliament and Army ſhall hearken to the Word of God and fulfil the humble deſires of his ſervant, That all theſe bleſſings ſhall immediatly enſue: But, if they deſpiſe and harden, God will overturn and make them deſolate, as in the twink<g ref="char:EOLhyphen"/>ling of an eye. And will raiſe up an other Authority and Power more wiſe and glorious on whom he will power his Spirit, and they ſhall do theſe great things, and more. For the Mouth of the Lord hath ſpoken it. <hi>Iſa.</hi> 1.20. &amp; 40.5.58.14.</p>
+            <closer>Read and Believe, or Read and Tremble.</closer>
+            <pb facs="tcp:119134:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
